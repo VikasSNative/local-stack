@@ -37,7 +37,7 @@ metadata:
   name: function-mesh
   namespace: operators
 spec:
-  channel: alpha
+  channel: stable
   name: function-mesh
   source: operatorhubio-catalog
   sourceNamespace: olm
